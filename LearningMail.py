@@ -17,7 +17,7 @@ import base64
 # Configurações
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 DIRETORIO_SAIDA = '/caminho/para/salvar/arquivos'  # Altere para seu diretório
-EXTENSOES_PERMITIDAS = ('.pptx', '.xlsx', 'word')  # Extensões permitidas
+EXTENSOES_PERMITIDAS = ('.pptx', '.xlsx', 'word', 'png')  # Extensões permitidas
 LABEL_ALVO = 'nome_da_sua_label'  # Ex: 'Financeiro', 'Relatórios', IMPORTANTE: usar nome EXATO da label
 # Para buscar na Caixa de Entrada padrão, use: LABEL_ALVO = 'INBOX'
 
@@ -149,3 +149,4 @@ if __name__ == '__main__':
 
 
 # =============================================================================
+
