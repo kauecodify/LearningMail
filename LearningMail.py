@@ -1,9 +1,15 @@
 # -*- coding: utf-8 -*-
+
 """
+
 Created on Sat Aug  9 14:33:52 2025
 
-@author: K
+@author: K 
+
+LearningMail to save in directory
+
 """
+
 import os
 import pickle
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -147,7 +153,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-
 # =============================================================================
+
 
 
