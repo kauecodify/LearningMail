@@ -1,1 +1,6 @@
 # LearningMail
+
+---
+
+# como utilizar...
+
