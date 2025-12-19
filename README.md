@@ -40,7 +40,7 @@ DIRETORIO_SAIDA = r'C:\caminho\para\pasta'
 
 Extensões válidas:
 
-EXTENSOES_PERMITIDAS = ('.pptx', '.xlsx', '.docx', '.png')
+EXTENSOES_PERMITIDAS = ('.pptx', '.xlsx', '.docx', '.png', '.csv', '.edithere')
 
 adc mais caso precise...
 
