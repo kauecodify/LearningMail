@@ -62,7 +62,7 @@ O token fica salvo (token.pickle)
 
 Resultado
 
-Até 5 e-mails processados
+Até X e-mails processados
 
 Anexos salvos automaticamente
 
