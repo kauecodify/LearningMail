@@ -1,6 +1,6 @@
 # LearningMail
 
-Lê e-mails não lidos do Gmail
+Lê e-mails não lidos e baixa os arquivos escolhidos em um diretório
 
 ---
 
